@@ -5,7 +5,7 @@
 
 - Currently working on **AOSP and Custom ROMs**
 
-- I’m currently learning **Git, Python, ROM build**
+- I’m currently learning **Git, Python, ROM building**
 
 - Looking for help with **mentioned projects and languages**
 
